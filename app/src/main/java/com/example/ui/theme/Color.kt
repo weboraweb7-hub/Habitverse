@@ -1,0 +1,90 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// 1. Forest Teal (Default Free Theme)
+val TealPrimaryLight = Color(0xFF0F766E)
+val TealOnPrimaryLight = Color(0xFFFFFFFF)
+val TealContainerLight = Color(0xFFCCFBF1)
+val OnTealContainerLight = Color(0xFF042F2E)
+
+val EmeraldSecondaryLight = Color(0xFF15803D)
+val EmeraldOnSecondaryLight = Color(0xFFFFFFFF)
+val EmeraldContainerLight = Color(0xFFDCFCE7)
+val OnEmeraldContainerLight = Color(0xFF052E16)
+
+val AmberTertiaryLight = Color(0xFFB45309)
+val AmberOnTertiaryLight = Color(0xFFFFFFFF)
+val AmberContainerLight = Color(0xFFFEF3C7)
+val OnAmberContainerLight = Color(0xFF451A03)
+
+val BackgroundLight = Color(0xFFF6FAF8)
+val OnBackgroundLight = Color(0xFF111C19)
+val SurfaceLight = Color(0xFFFFFFFF)
+val SurfaceVariantLight = Color(0xFFE7F0EC)
+val OnSurfaceVariantLight = Color(0xFF43544E)
+val OutlineLight = Color(0xFFC5D5CE)
+
+val TealPrimaryDark = Color(0xFF5EEAD4)
+val TealOnPrimaryDark = Color(0xFF003733)
+val TealContainerDark = Color(0xFF115E59)
+val OnTealContainerDark = Color(0xFFCCFBF1)
+
+val EmeraldSecondaryDark = Color(0xFF6EE7B7)
+val EmeraldOnSecondaryDark = Color(0xFF022C22)
+val EmeraldContainerDark = Color(0xFF065F46)
+val OnEmeraldContainerDark = Color(0xFFD1FAE5)
+
+val AmberTertiaryDark = Color(0xFFFCD34D)
+val AmberOnTertiaryDark = Color(0xFF451A03)
+val AmberContainerDark = Color(0xFF78350F)
+val OnAmberContainerDark = Color(0xFFFEF3C7)
+
+val BackgroundDark = Color(0xFF0B1412)
+val OnBackgroundDark = Color(0xFFE6F0EC)
+val SurfaceDark = Color(0xFF121F1C)
+val SurfaceVariantDark = Color(0xFF1E302B)
+val OnSurfaceVariantDark = Color(0xFFB1C4BD)
+val OutlineDark = Color(0xFF334942)
+
+// 2. Ocean Cobalt (Unlockable via Rewarded Ad for 7 days)
+val OceanPrimaryLight = Color(0xFF1D4ED8)
+val OceanContainerLight = Color(0xFFDBEAFE)
+val OceanOnContainerLight = Color(0xFF1E3A8A)
+val OceanBackgroundLight = Color(0xFFF4F8FF)
+val OceanSurfaceVariantLight = Color(0xFFE2ECFB)
+
+val OceanPrimaryDark = Color(0xFF93C5FD)
+val OceanOnPrimaryDark = Color(0xFF0A2558)
+val OceanContainerDark = Color(0xFF1E40AF)
+val OceanOnContainerDark = Color(0xFFDBEAFE)
+val OceanBackgroundDark = Color(0xFF0B1220)
+val OceanSurfaceDark = Color(0xFF121B2E)
+
+// 3. Sunset Terracotta (Unlockable via Rewarded Ad for 7 days)
+val SunsetPrimaryLight = Color(0xFFC2410C)
+val SunsetContainerLight = Color(0xFFFFEDD5)
+val SunsetOnContainerLight = Color(0xFF7C2D12)
+val SunsetBackgroundLight = Color(0xFFFFF8F4)
+val SunsetSurfaceVariantLight = Color(0xFFFAE8DC)
+
+val SunsetPrimaryDark = Color(0xFFFDBA74)
+val SunsetOnPrimaryDark = Color(0xFF4A1904)
+val SunsetContainerDark = Color(0xFF9A3412)
+val SunsetOnContainerDark = Color(0xFFFFEDD5)
+val SunsetBackgroundDark = Color(0xFF1C110C)
+val SunsetSurfaceDark = Color(0xFF281812)
+
+// 4. Midnight Lavender (Unlockable via Rewarded Ad for 7 days)
+val LavenderPrimaryLight = Color(0xFF6D28D9)
+val LavenderContainerLight = Color(0xFFEDE9FE)
+val LavenderOnContainerLight = Color(0xFF4C1D95)
+val LavenderBackgroundLight = Color(0xFFF9F7FF)
+val LavenderSurfaceVariantLight = Color(0xFFECE6FB)
+
+val LavenderPrimaryDark = Color(0xFFC4B5FD)
+val LavenderOnPrimaryDark = Color(0xFF2E1065)
+val LavenderContainerDark = Color(0xFF5B21B6)
+val LavenderOnContainerDark = Color(0xFFEDE9FE)
+val LavenderBackgroundDark = Color(0xFF120E1D)
+val LavenderSurfaceDark = Color(0xFF1C162D)

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="database" path="habitworks_db" />
+        <include domain="database" path="habitworks_db-wal" />
+        <include domain="database" path="habitworks_db-shm" />
+        <include domain="file" path="datastore/habitworks_preferences.preferences_pb" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="database" path="habitworks_db" />
+        <include domain="database" path="habitworks_db-wal" />
+        <include domain="database" path="habitworks_db-shm" />
+        <include domain="file" path="datastore/habitworks_preferences.preferences_pb" />
+    </device-transfer>
+</data-extraction-rules>

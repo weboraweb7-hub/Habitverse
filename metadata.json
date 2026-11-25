@@ -1,0 +1,8 @@
+{
+  "name": "HabitWorks",
+  "description": "A fast, completely free, offline-first daily habit tracker with swipeable days, streaks, widgets, local insights, and AdMob support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

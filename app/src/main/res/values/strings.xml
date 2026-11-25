@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HabitWorks</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_progress">Progress</string>
+    <string name="empty_habits_title">Start your daily rhythm</string>
+    <string name="empty_habits_body">Add your first habit or a starter pack in Tasks and check in with one tap each day.</string>
+    <string name="go_to_tasks">Go to Tasks</string>
+    <string name="add_habit">Add habit</string>
+    <string name="edit_habit">Edit habit</string>
+    <string name="export_csv">Export CSV</string>
+    <string name="reminder_channel_name">Habit Reminders</string>
+    <string name="reminder_channel_desc">Local notifications reminding you to check off your habits.</string>
+    <string name="reminder_notification_title">Time to check your habits</string>
+    <string name="reminder_notification_body">Small daily actions build lasting momentum.</string>
+    <string name="widget_description">See today\'s habits and tap to complete right from your home screen.</string>
+    <string name="streak_widget_label">Streak &amp; Today</string>
+    <string name="streak_widget_description">At-a-glance streak counter and today\'s habit summary.</string>
+    <string name="action_done">Done</string>
+    <string name="action_snooze">Snooze 15m</string>
+</resources>
